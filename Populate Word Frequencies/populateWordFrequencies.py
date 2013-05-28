@@ -1,0 +1,3 @@
+import parseSources
+
+parseSources.populateWordFrequencies()
